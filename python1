@@ -1,2 +1,6 @@
 echo "#introduction-" >> README.md
- git init
+ git init  
+ git add variable
+ git commit -m"
+ git config --global user.email
+ git config --global user.name"
