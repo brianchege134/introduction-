@@ -1,0 +1,2 @@
+echo "#introduction-" >> README.md
+ git init
